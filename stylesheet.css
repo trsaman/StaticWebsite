@@ -1,0 +1,83 @@
+a, a:visited {
+	text-decoration: none;
+}
+
+body {
+	background-color: #216369;
+}
+
+iframe {
+	border: 0;
+	float: top;
+	height: 450px;
+	width: 70%;
+}
+
+img {
+	float: right;
+	height: 60%;
+	width: 60%;
+}
+
+li {
+	background-color: #0E4F55;
+	border-radius: 10px;
+	color: #5D9297;
+	font-family: "Trebuchet MS";
+	font-size: 20px;
+	font-weight: bold;
+	list-style-type: none;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding: 20px;
+}
+
+li:hover {
+	background-color: #38787E;
+}
+
+p, h1 {
+	color: #5D9297;
+	font-family: "Trebuchet MS";
+	line-height: 32px;
+	margin-right: 20px;
+	text-indent: 48px;
+}
+
+span {
+	font-weight: bold;
+}
+
+ul {
+	float: left;
+	margin-right: 20px;
+	margin-top: 0px;
+	width: 20%;
+}
+
+.banner {
+	background-color: #0E4F55;
+	border-radius: 10px;
+	color: #5D9297;
+	font-family: "Trebuchet MS";
+	font-size: 36px;
+	font-weight: bold;
+	margin: 20px;
+	padding: 20px;
+}
+
+.quote {
+	font-style: italic;
+}
+
+.secret {
+	background-color: #216369;
+}
+
+.secret:hover{
+	background-color: #216369;
+}
+
+.source {
+	text-align: right;
+}
